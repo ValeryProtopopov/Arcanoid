@@ -1,2 +1,2 @@
-# Arcanoid
+# Arkanoid
 Игра арканоид на с++
