@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\valera\source\repos\arkanoid\arkanoid\arkanoid01\main.cpp(21): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\valera\source\repos\arkanoid\arkanoid\arkanoid01\main.cpp(42): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\valera\source\repos\arkanoid\arkanoid\arkanoid01\main.cpp(47): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\valera\source\repos\arkanoid\arkanoid\arkanoid01\main.cpp(52): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\valera\source\repos\arkanoid\arkanoid\arkanoid01\main.cpp(57): warning C4018: <: несоответствие типов со знаком и без знака
+  Arkanoid01.vcxproj -> C:\Users\Valera\source\repos\Arkanoid\Arkanoid\Debug\Arkanoid01.exe
